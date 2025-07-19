@@ -15,3 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+    "Aimez ce que vous faites, et ensuite vous ferez de votre mieux." Katherine Johnson
+
+    "Suivez votre passion. Quoi que vous fassiez, faites de votre mieux à tout moment et rendez-le aussi correct que possible." Katherine Johnson
+
+
