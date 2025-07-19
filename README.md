@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h1 align="center">👋 Bonjour et bienvenue !<br><br>Je m’appelle Clement, je suis intégrateur web freelance, passionné par le code propre, la performance et l’accessibilité.<br><br>Je conçois des sites web modernes et optimisés pour le référencement naturel, principalement à destination des TPE, freelances, associations et créateurs indépendants.<br><br>🎯 Ce que je propose :<br>- Création de sites vitrines, blogs, landing pages<br>- Intégration HTML/CSS/SASS propre et responsive<br>- SEO technique pour améliorer la visibilité sur Google<br>- Respect des bonnes pratiques web (accessibilité, performance, responsive design)<br><br>📚 En parallèle, je me forme activement à JavaScript, React et Python, dans le but de proposer bientôt des services complets en développement front-end et back-end.<br><br>🔧 Mon objectif : vous aider à avoir un site simple, rapide, efficace — et qui vous ressemble.<br><br>📩 N’hésitez pas à me contacter pour discuter de votre projet ou demander un devis gratuit !</h1>
+<p align="center">👋 Bonjour et bienvenue !<br><br>Je m’appelle Clement, je suis intégrateur web freelance, passionné par le code propre, la performance et l’accessibilité.<br><br>Je conçois des sites web modernes et optimisés pour le référencement naturel, principalement à destination des TPE, freelances, associations et créateurs indépendants.<br><br>🎯 Ce que je propose :<br>- Création de sites vitrines, blogs, landing pages<br>- Intégration HTML/CSS/SASS propre et responsive<br>- SEO technique pour améliorer la visibilité sur Google<br>- Respect des bonnes pratiques web (accessibilité, performance, responsive design)<br><br>📚 En parallèle, je me forme activement à JavaScript, React et Python, dans le but de proposer bientôt des services complets en développement front-end et back-end.<br><br>🔧 Mon objectif : vous aider à avoir un site simple, rapide, efficace — et qui vous ressemble.<br><br>📩 N’hésitez pas à me contacter pour discuter de votre projet ou demander un devis gratuit !</p>
 
 ###
 
@@ -58,7 +56,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=61578381179369" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
@@ -67,6 +67,20 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@servantclement/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@servantclement/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@servantclement/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@servantclement/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@servantclement/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@servantclement/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 ###
